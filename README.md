@@ -2,6 +2,8 @@
 # MNIST Digit Classification using K-Nearest Neighbors (KNN)
 
 This is an **educational project** designed to demonstrate the implementation of the **K-Nearest Neighbors (KNN)** algorithm on the **MNIST dataset**. It is a simple, **beginner-friendly** project aimed at learning the basics of machine learning and classification tasks.
+I learned the concepts of machine learning by working on this project and implemented it myself. It focuses on classification using the K-Nearest Neighbors (KNN) algorithm, and through this, I gained hands-on experience with key tasks such as data loading, preprocessing, model training, and evaluation.
+
 
 ## Key Steps:
 
@@ -21,7 +23,6 @@ This is an **educational project** designed to demonstrate the implementation of
 5. **Saving the Model**:
    - After training, the model is saved using `joblib`, so it can be reused later without retraining.
 
-I learned the concepts of machine learning by working on this project and implemented it myself. It focuses on classification using the K-Nearest Neighbors (KNN) algorithm, and through this, I gained hands-on experience with key tasks such as data loading, preprocessing, model training, and evaluation.
 
 ## Requirements:
 To run the code, you need to install the following libraries:
